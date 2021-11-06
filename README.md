@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![logos](https://github.com/kayjw/kayjw/blob/main/logos.gif?raw=true)
+
 <!--
 **kayjw/kayjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
