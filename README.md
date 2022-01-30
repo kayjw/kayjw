@@ -1,1 +1,1 @@
-### Hello World
+<img src="https://www.codewars.com/users/kayjw/badges/small" />
